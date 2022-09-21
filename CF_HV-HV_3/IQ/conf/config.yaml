@@ -1,0 +1,64 @@
+exp_name: ''
+project_name: 'Car-following'
+
+cuda_deterministic: False
+device:
+
+gamma: 0.925
+seed: 0
+pretrain: null
+
+num_seed_steps: 0 # Don't need seeding for IL (Use 1000 for RL)
+only_expert_states: False
+
+train:
+  batch: 64
+  use_target: True
+  soft_update: True
+
+eval:
+  policy: 
+  demos: 100
+  subsample_freq: 4
+  threshold:
+  use_baselines: False
+  eps: 10
+  transfer: False
+  expert_env: ''
+
+env:
+  replay_mem: 10000
+  initial_mem: 2000
+  eps_steps: 200
+  learn_episodes: 550
+
+method:
+  type: iq
+  loss: value
+
+  constrain: False
+  grad_pen: True
+  chi: True
+  tanh: False
+  regularize: True
+  div:
+
+  alpha: 0.5
+  lambda_gp: 10
+  mix_coeff: 1
+
+# Extra args
+log_interval: 100  # Log every this many steps
+log_dir: logs/
+hydra_base_dir: outputs/
+eval_only: False
+
+# Do offline learning
+offline: False
+# Number of actor updates per env step
+num_actor_updates: 1
+
+defaults:
+  - method: iq
+  - agent: sac
+  - env: CF_Env
