@@ -1,0 +1,146 @@
+Vali	Epoch 0	Spacing RMSPE: 0.415143	Speed RMSPE: 0.228034
+
+Vali	Epoch 1	Spacing RMSPE: 0.401260	Speed RMSPE: 0.225063
+
+Vali	Epoch 2	Spacing RMSPE: 0.409863	Speed RMSPE: 0.224364
+
+Vali	Epoch 3	Spacing RMSPE: 0.388010	Speed RMSPE: 0.218078
+
+Vali	Epoch 4	Spacing RMSPE: 0.364855	Speed RMSPE: 0.209537
+
+Vali	Epoch 5	Spacing RMSPE: 0.371937	Speed RMSPE: 0.198955
+
+Vali	Epoch 6	Spacing RMSPE: 0.382459	Speed RMSPE: 0.191583
+
+Vali	Epoch 7	Spacing RMSPE: 0.324870	Speed RMSPE: 0.189312
+
+Vali	Epoch 8	Spacing RMSPE: 0.417172	Speed RMSPE: 0.189403
+
+Vali	Epoch 9	Spacing RMSPE: 0.328990	Speed RMSPE: 0.182927
+
+Vali	Epoch 10	Spacing RMSPE: 0.324381	Speed RMSPE: 0.184063
+
+Vali	Epoch 11	Spacing RMSPE: 0.331330	Speed RMSPE: 0.179724
+
+Vali	Epoch 12	Spacing RMSPE: 0.359210	Speed RMSPE: 0.172957
+
+Vali	Epoch 13	Spacing RMSPE: 0.347066	Speed RMSPE: 0.168878
+
+Vali	Epoch 14	Spacing RMSPE: 0.554386	Speed RMSPE: 0.206163
+
+Vali	Epoch 15	Spacing RMSPE: 0.458714	Speed RMSPE: 0.177461
+
+Vali	Epoch 16	Spacing RMSPE: 0.451469	Speed RMSPE: 0.175524
+
+Vali	Epoch 17	Spacing RMSPE: 0.406294	Speed RMSPE: 0.159152
+
+Vali	Epoch 18	Spacing RMSPE: 0.398921	Speed RMSPE: 0.153593
+
+Vali	Epoch 19	Spacing RMSPE: 0.396525	Speed RMSPE: 0.147575
+
+Vali	Epoch 20	Spacing RMSPE: 0.435867	Speed RMSPE: 0.148218
+
+Vali	Epoch 21	Spacing RMSPE: 0.350665	Speed RMSPE: 0.138966
+
+Vali	Epoch 22	Spacing RMSPE: 0.320077	Speed RMSPE: 0.140443
+
+Vali	Epoch 23	Spacing RMSPE: 0.413837	Speed RMSPE: 0.135356
+
+Vali	Epoch 24	Spacing RMSPE: 0.401039	Speed RMSPE: 0.133949
+
+Vali	Epoch 25	Spacing RMSPE: 0.464834	Speed RMSPE: 0.148386
+
+Vali	Epoch 26	Spacing RMSPE: 0.454772	Speed RMSPE: 0.144690
+
+Vali	Epoch 27	Spacing RMSPE: 0.439373	Speed RMSPE: 0.132857
+
+Vali	Epoch 28	Spacing RMSPE: 0.371602	Speed RMSPE: 0.113040
+
+Vali	Epoch 29	Spacing RMSPE: 0.355252	Speed RMSPE: 0.105236
+
+Vali	Epoch 30	Spacing RMSPE: 0.349113	Speed RMSPE: 0.103760
+
+Vali	Epoch 31	Spacing RMSPE: 0.377939	Speed RMSPE: 0.103477
+
+Vali	Epoch 32	Spacing RMSPE: 0.394625	Speed RMSPE: 0.105349
+
+Vali	Epoch 33	Spacing RMSPE: 0.376409	Speed RMSPE: 0.099712
+
+Vali	Epoch 34	Spacing RMSPE: 0.533081	Speed RMSPE: 0.144600
+
+Vali	Epoch 35	Spacing RMSPE: 0.467347	Speed RMSPE: 0.123908
+
+Vali	Epoch 36	Spacing RMSPE: 0.410903	Speed RMSPE: 0.108397
+
+Vali	Epoch 37	Spacing RMSPE: 0.533700	Speed RMSPE: 0.155100
+
+Vali	Epoch 38	Spacing RMSPE: 0.564301	Speed RMSPE: 0.149599
+
+Vali	Epoch 39	Spacing RMSPE: 0.542368	Speed RMSPE: 0.142424
+
+Vali	Epoch 40	Spacing RMSPE: 0.516014	Speed RMSPE: 0.134413
+
+Vali	Epoch 41	Spacing RMSPE: 0.495214	Speed RMSPE: 0.128691
+
+Vali	Epoch 42	Spacing RMSPE: 0.471281	Speed RMSPE: 0.122402
+
+Vali	Epoch 43	Spacing RMSPE: 0.446936	Speed RMSPE: 0.116483
+
+Vali	Epoch 44	Spacing RMSPE: 0.452890	Speed RMSPE: 0.117842
+
+Vali	Epoch 45	Spacing RMSPE: 0.431185	Speed RMSPE: 0.112500
+
+Vali	Epoch 46	Spacing RMSPE: 0.445047	Speed RMSPE: 0.115072
+
+Vali	Epoch 47	Spacing RMSPE: 0.436990	Speed RMSPE: 0.113313
+
+Vali	Epoch 48	Spacing RMSPE: 0.477301	Speed RMSPE: 0.125494
+
+Vali	Epoch 49	Spacing RMSPE: 0.452756	Speed RMSPE: 0.118842
+
+Vali	Epoch 50	Spacing RMSPE: 0.419839	Speed RMSPE: 0.110704
+
+Vali	Epoch 51	Spacing RMSPE: 0.390058	Speed RMSPE: 0.104736
+
+Vali	Epoch 52	Spacing RMSPE: 0.387774	Speed RMSPE: 0.104157
+
+Vali	Epoch 53	Spacing RMSPE: 0.371950	Speed RMSPE: 0.101169
+
+Vali	Epoch 54	Spacing RMSPE: 0.359599	Speed RMSPE: 0.100053
+
+Vali	Epoch 55	Spacing RMSPE: 0.369521	Speed RMSPE: 0.104170
+
+Vali	Epoch 56	Spacing RMSPE: 0.362516	Speed RMSPE: 0.101451
+
+Vali	Epoch 57	Spacing RMSPE: 0.534489	Speed RMSPE: 0.150566
+
+Vali	Epoch 58	Spacing RMSPE: 0.515206	Speed RMSPE: 0.143824
+
+Vali	Epoch 59	Spacing RMSPE: 0.492423	Speed RMSPE: 0.136691
+
+Vali	Epoch 60	Spacing RMSPE: 0.498792	Speed RMSPE: 0.138631
+
+Vali	Epoch 61	Spacing RMSPE: 0.470493	Speed RMSPE: 0.129280
+
+Vali	Epoch 62	Spacing RMSPE: 0.488627	Speed RMSPE: 0.134704
+
+Vali	Epoch 63	Spacing RMSPE: 0.467831	Speed RMSPE: 0.128465
+
+Vali	Epoch 64	Spacing RMSPE: 0.439234	Speed RMSPE: 0.120266
+
+Vali	Epoch 65	Spacing RMSPE: 0.555224	Speed RMSPE: 0.156915
+
+Vali	Epoch 66	Spacing RMSPE: 0.517613	Speed RMSPE: 0.144260
+
+Vali	Epoch 67	Spacing RMSPE: 0.479880	Speed RMSPE: 0.132008
+
+Vali	Epoch 68	Spacing RMSPE: 0.446901	Speed RMSPE: 0.122463
+
+Vali	Epoch 69	Spacing RMSPE: 0.424159	Speed RMSPE: 0.115557
+
+Vali	Epoch 70	Spacing RMSPE: 0.416880	Speed RMSPE: 0.113896
+
+Vali	Epoch 71	Spacing RMSPE: 0.387341	Speed RMSPE: 0.106884
+
+Vali	Epoch 72	Spacing RMSPE: 0.393278	Speed RMSPE: 0.108213
+
